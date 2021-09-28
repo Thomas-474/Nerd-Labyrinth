@@ -1,2 +1,4 @@
 ﻿Game Description:
 The players are trying to escape a labyrinth of rooms. There are 27 rooms and together they form the shape of a cube. There are 3 floors, 9 rooms on each floor, and the area of each floor is 3 x 3 rooms. There are 2 types of rooms, exit rooms and puzzle rooms. There are 6 exit rooms and 21 puzzle rooms. Exit rooms have locked doors that players must use to escape the labyrinth cube. When players enter a puzzle room they must solve the puzzle to leave the room. Players earn 1 point for each puzzle they solve. When a player earns their 5th point, they get a key that unlocks only one specific exit room door. When 2 total points are earned across the whole game, the rooms shift positions except the exit rooms. There is one exit room in the center of each side of the cube.
+
+Sekol's Code: https://github.com/ninjafiveo/Nerd_Labyrinth_Final

@@ -21,7 +21,7 @@ namespace Nerd_Labyrinth
         public string name;
         public int age;
         public double luck;
-        public int points;
+        public double points;
         public bool hasKey;
     }
 
