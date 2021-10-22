@@ -10,27 +10,19 @@ namespace Nerd_Labyrinth
     {
         static void Main(string[] args)
         {
-            
-            
+            /*
+            Room room1 = new Room(numberGuesser);
+            Room room2 = new Room(numberGuesser);
+            Room room3 = new Room(numberGuesser);
+            Room room4 = new Room(numberGuesser);
+            Room room5 = new Room(numberGuesser);
+            Room room6 = new Room(numberGuesser);
+            Room room7 = new Room(numberGuesser);
+            Room room8 = new Room(numberGuesser);
+            Room room9 = new Room(numberGuesser);
+            */
+
             Console.ReadKey();
         }
-    }
-
-    public class Player
-    {
-        public string name;
-        public int age;
-        public double luck;
-        public double points;
-        public bool hasKey;
-    }
-
-    public class Room
-    {
-        public int number;
-        public string type; // Exit Room or Type of Puzzle
-        public int lengthPosition; // x-axis
-        public int heightPosition; // y-axis
-        public int widthPosition; // z-axis
     }
 }
