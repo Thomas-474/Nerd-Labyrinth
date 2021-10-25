@@ -6,15 +6,16 @@ using System.Threading.Tasks;
 
 namespace Nerd_Labyrinth
 {
-    class Program
-    {
-        public static void Main (string[] args)
-	    {
-		GameSetup.CreatePlayers();
-		GameSetup.DiceTest();
+	class Program
+	{
+  		public static void Main (string[] args)
+		{	
+			GameSetup.CreatePlayers();
+			GameSetup.DiceTest();
+			NumberGuesser game = new NumberGuesser();
 
 		
-        Console.ReadKey();
-        }
-    }
+    			Console.ReadKey();
+  		}
+	}
 }
